@@ -1,2 +1,2 @@
 # learningReact
-from noob to atleast something
+from noob to atleast something!
